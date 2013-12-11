@@ -1,0 +1,1 @@
+{ "options" : { "create" : "Gradebook", "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "sshao1.Gradebook", "name" : "_id_" } ] }
